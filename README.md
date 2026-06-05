@@ -3,9 +3,9 @@
 Daily AI/tech digests distilled from an X/Twitter timeline by an LLM summarizer.
 Each day's feed is scraped, deduplicated, scored, and summarized into a technical digest plus an extracted-learnings companion. This repo is the published archive — GitHub renders the markdown directly.
 
-**Latest:** [2026-06-03](digests/2026-06-03.md) · [learnings](learnings/2026-06-03.md)
+**Latest:** [2026-06-05](digests/2026-06-05.md)
 
-**35 days archived.**
+**36 days archived.**
 
 ---
 
@@ -13,6 +13,7 @@ Each day's feed is scraped, deduplicated, scored, and summarized into a technica
 
 | Date | Digest | Learnings |
 | --- | --- | --- |
+| 2026-06-05 | [digest](digests/2026-06-05.md) | — |
 | 2026-06-03 | [digest](digests/2026-06-03.md) | [learnings](learnings/2026-06-03.md) |
 | 2026-06-02 | [digest](digests/2026-06-02.md) | [learnings](learnings/2026-06-02.md) |
 
@@ -61,4 +62,4 @@ Each day's feed is scraped, deduplicated, scored, and summarized into a technica
 
 ---
 
-_Index regenerated 2026-06-03 07:19 UTC by `sync.py`._
+_Index regenerated 2026-06-05 02:47 UTC by `sync.py`._

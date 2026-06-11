@@ -3,9 +3,9 @@
 Daily AI/tech digests distilled from an X/Twitter timeline by an LLM summarizer.
 Each day's feed is scraped, deduplicated, scored, and summarized into a technical digest plus an extracted-learnings companion. This repo is the published archive — GitHub renders the markdown directly.
 
-**Latest:** [2026-06-05](digests/2026-06-05.md) · [learnings](learnings/2026-06-05.md)
+**Latest:** [2026-06-10](digests/2026-06-10.md) · [learnings](learnings/2026-06-10.md)
 
-**36 days archived.**
+**46 days archived.**
 
 ---
 
@@ -13,6 +13,10 @@ Each day's feed is scraped, deduplicated, scored, and summarized into a technica
 
 | Date | Digest | Learnings |
 | --- | --- | --- |
+| 2026-06-10 | [digest](digests/2026-06-10.md) | [learnings](learnings/2026-06-10.md) |
+| 2026-06-09 | [digest](digests/2026-06-09.md) | [learnings](learnings/2026-06-09.md) |
+| 2026-06-08 | [digest](digests/2026-06-08.md) | [learnings](learnings/2026-06-08.md) |
+| 2026-06-06 | [digest](digests/2026-06-06.md) | [learnings](learnings/2026-06-06.md) |
 | 2026-06-05 | [digest](digests/2026-06-05.md) | [learnings](learnings/2026-06-05.md) |
 | 2026-06-03 | [digest](digests/2026-06-03.md) | [learnings](learnings/2026-06-03.md) |
 | 2026-06-02 | [digest](digests/2026-06-02.md) | [learnings](learnings/2026-06-02.md) |
@@ -59,7 +63,18 @@ Each day's feed is scraped, deduplicated, scored, and summarized into a technica
 | 2026-04-07 | [digest](digests/2026-04-07.md) | [learnings](learnings/2026-04-07.md) |
 | 2026-04-06 | [digest](digests/2026-04-06.md) | [learnings](learnings/2026-04-06.md) |
 | 2026-04-05 | [digest](digests/2026-04-05.md) | [learnings](learnings/2026-04-05.md) |
+| 2026-04-01 | [digest](digests/2026-04-01.md) | [learnings](learnings/2026-04-01.md) |
+
+## March 2026
+
+| Date | Digest | Learnings |
+| --- | --- | --- |
+| 2026-03-31 | [digest](digests/2026-03-31.md) | [learnings](learnings/2026-03-31.md) |
+| 2026-03-30 | [digest](digests/2026-03-30.md) | [learnings](learnings/2026-03-30.md) |
+| 2026-03-28 | [digest](digests/2026-03-28.md) | [learnings](learnings/2026-03-28.md) |
+| 2026-03-26 | [digest](digests/2026-03-26.md) | — |
+| 2026-03-25 | [digest](digests/2026-03-25.md) | — |
 
 ---
 
-_Index regenerated 2026-06-05 02:51 UTC by `sync.py`._
+_Index regenerated 2026-06-11 17:35 UTC by `sync.py`._

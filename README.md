@@ -3,16 +3,30 @@
 Daily AI/tech digests distilled from an X/Twitter timeline by an LLM summarizer.
 Each day's feed is scraped, deduplicated, scored, and summarized into a technical digest plus an extracted-learnings companion. This repo is the published archive — GitHub renders the markdown directly.
 
-**Latest:** [2026-06-10](digests/2026-06-10.md) · [learnings](learnings/2026-06-10.md)
+**Latest:** [2026-07-02](digests/2026-07-02.md) · [learnings](learnings/2026-07-02.md)
 
-**46 days archived.**
+**55 days archived.**
 
 ---
+
+## July 2026
+
+| Date | Digest | Learnings |
+| --- | --- | --- |
+| 2026-07-02 | [digest](digests/2026-07-02.md) | [learnings](learnings/2026-07-02.md) |
 
 ## June 2026
 
 | Date | Digest | Learnings |
 | --- | --- | --- |
+| 2026-06-30 | [digest](digests/2026-06-30.md) | [learnings](learnings/2026-06-30.md) |
+| 2026-06-26 | [digest](digests/2026-06-26.md) | [learnings](learnings/2026-06-26.md) |
+| 2026-06-22 | [digest](digests/2026-06-22.md) | [learnings](learnings/2026-06-22.md) |
+| 2026-06-19 | [digest](digests/2026-06-19.md) | [learnings](learnings/2026-06-19.md) |
+| 2026-06-17 | [digest](digests/2026-06-17.md) | [learnings](learnings/2026-06-17.md) |
+| 2026-06-16 | [digest](digests/2026-06-16.md) | [learnings](learnings/2026-06-16.md) |
+| 2026-06-13 | [digest](digests/2026-06-13.md) | [learnings](learnings/2026-06-13.md) |
+| 2026-06-12 | [digest](digests/2026-06-12.md) | [learnings](learnings/2026-06-12.md) |
 | 2026-06-10 | [digest](digests/2026-06-10.md) | [learnings](learnings/2026-06-10.md) |
 | 2026-06-09 | [digest](digests/2026-06-09.md) | [learnings](learnings/2026-06-09.md) |
 | 2026-06-08 | [digest](digests/2026-06-08.md) | [learnings](learnings/2026-06-08.md) |
@@ -77,4 +91,4 @@ Each day's feed is scraped, deduplicated, scored, and summarized into a technica
 
 ---
 
-_Index regenerated 2026-06-11 17:35 UTC by `sync.py`._
+_Index regenerated 2026-07-02 03:19 UTC by `sync.py`._
